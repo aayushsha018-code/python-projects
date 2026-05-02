@@ -21,5 +21,4 @@ This project analyzes an anime dataset to understand patterns in ratings, popula
 ## 🛠 Tools Used
 - Python
 - Pandas
-- Matplotlib
 - Seaborn
